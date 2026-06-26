@@ -1,6 +1,7 @@
 sudo /opt/lampp/lampp start
 
 
+
     1 -  ¿Qué es PHP?
     2 -  Instalación del entorno XAMPP
     3 -  Programa "Hola Mundo" en PHP
